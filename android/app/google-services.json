@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1093278247807",
+    "project_id": "cantwait305",
+    "storage_bucket": "cantwait305.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093278247807:android:e2eef85078a120561dc84a",
+        "android_client_info": {
+          "package_name": "com.magdalenalonc.cantwait28"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093278247807-hnkaued84jekl7p4gp1odn8kjsss5klb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiDwqYzEZzAbTTC3tszgeH-MA4M4T_0Ew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093278247807-hnkaued84jekl7p4gp1odn8kjsss5klb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1093278247807-j7kqc6a86a9u282es6k6r01b4is4go5k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.magdalenalonc.cantwait28"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
