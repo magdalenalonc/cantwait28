@@ -13,6 +13,7 @@ class ItemModel {
   final String imageURL;
   final DateTime releaseDate;
 
+  // method
   String daysLeft() {
     return releaseDate.difference(DateTime.now()).inDays.toString();
   }
